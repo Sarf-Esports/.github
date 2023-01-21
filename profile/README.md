@@ -1,9 +1,9 @@
-# Sarf Esports Official
+# REVATI Official
 
-![](../assets/images/logos/sarf_large.png)
+![](../assets/images/logos/revati_large_dark.png)
 
 Website is still under development...
 
 ### Follow me!
 
-[![Twitter @sarf_esports](https://img.shields.io/twitter/follow/sarf_esports?label=Twitter%20%40sarf_esports&style=social)](https://twitter.com/sarf_esports)
+[![Twitter @revati_jp](https://img.shields.io/twitter/follow/revati_jp?label=Twitter%20%revati_jp&style=social)](https://twitter.com/revati_jp)
