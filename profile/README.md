@@ -1,9 +1,15 @@
-# REVATI Official
+<dev style="text-align:center;">
 
-![](../assets/images/logos/revati_large_dark.png)
+<h1>REVATI Official</h1>
 
-Website is still under development...
+<img src="https://raw.githubusercontent.com/Sarf-Esports/.github/master/assets/images/logos/revati_large_dark.png" alt="REVATI" />
 
-### Follow me!
+<a src="https://revati.jp">Website</a> is still under development...
 
-[![Twitter @revati_jp](https://img.shields.io/twitter/follow/revati_jp?label=Twitter%20%40revati_jp&style=social)](https://twitter.com/revati_jp)
+<br />
+
+<h3>Follow me!</h3>
+
+<a href="https://twitter.com/revati_jp"><img src="https://img.shields.io/twitter/follow/revati_jp?label=Twitter%20%40revati_jp&style=social" alt="Twitter @revati_jp" /></a>
+
+</dev>
