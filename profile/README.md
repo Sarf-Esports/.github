@@ -1,10 +1,10 @@
-<dev style="text-align:center;">
+<dev align="center">
 
 <h1>REVATI Official</h1>
 
 <img src="https://raw.githubusercontent.com/Sarf-Esports/.github/master/assets/images/logos/revati_large_dark.png" alt="REVATI" />
 
-<a src="https://revati.jp">Website</a> is still under development...
+<a href="https://revati.jp">Website</a> is still under development...
 
 <br />
 
