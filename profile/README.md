@@ -2,7 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/Sarf-Esports/.github/master/assets/images/logos/revati_large_dark.png" alt="REVATI" align="center" />
 
-<p align="center"><a href="https://revati.jp" align="center">Website</a> is still under development...</p>
+<p align="center">Website: <a href="https://revati.jp" align="center">revati.jp</a></p>
+
+<br />
+
+※ この Organization の ID はリブランディング前(Sard Esports)のものになっています。
+これは、ID変更によってローカルリポジトリやウェブサイトのデプロイ先で不整合が生じることを避けるためです。
 
 <br />
 
