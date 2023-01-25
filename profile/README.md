@@ -6,7 +6,7 @@
 
 <br />
 
-※ この Organization の ID はリブランディング前(Sard Esports)のものになっています。
+※ この Organization の ID はリブランディング前(Sarf Esports)のものになっています。
 これは、ID変更によってローカルリポジトリやウェブサイトのデプロイ先で不整合が生じることを避けるためです。
 
 <br />
