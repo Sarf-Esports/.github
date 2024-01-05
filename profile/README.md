@@ -1,6 +1,6 @@
 <h1 align="center">REVATI Official</h1>
 
-<img src="../assets/images/header.png" alt="REVATI" align="center" />
+<img src="https://raw.githubusercontent.com/Sarf-Esports/.github/master/assets/images/header.png" alt="REVATI" align="center" />
 
 <p align="center">Website: <a href="https://revati.jp" align="center">revati.jp</a></p>
 
