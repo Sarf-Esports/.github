@@ -14,5 +14,5 @@
 <h3 align="center">Follow us!</h3>
 
 <p align="center">
-<a href="https://twitter.com/revati_jp"><img src="https://img.shields.io/twitter/follow/revati_jp?label=Twitter%20%40revati_jp&style=social" alt="Twitter @revati_jp" /></a>
+<a href="https://twitter.com/revati_jp"><img src="https://img.shields.io/twitter/follow/revati_jp?label=%20%40revati_jp&style=social" alt="Twitter @revati_jp" /></a>
 </p>
