@@ -16,3 +16,18 @@
 <p align="center">
 <a href="https://twitter.com/revati_jp"><img src="https://img.shields.io/twitter/follow/revati_jp?label=%20%40revati_jp&style=social" alt="Twitter @revati_jp" /></a>
 </p>
+
+<br />
+
+<h2 align="center">SPONSORS</h3>
+
+<div align="center">
+	<br />
+	<a href="https://gachisup.com">
+		<img src="https://revati.jp/images/logos/gachisup_oxipng.png" alt="Gachisup" width="392px" />
+	</a>
+	<br /><br /><br />
+	<a href="https://xenova.shop">
+		<img src="https://revati.jp/images/logos/xenova_oxipng.png" alt="Gachisup" width="392px" />
+	</a>
+</div>
