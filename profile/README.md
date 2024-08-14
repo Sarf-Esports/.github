@@ -24,10 +24,10 @@
 <div align="center">
 	<br />
 	<a href="https://gachisup.com">
-		<img src="https://revati.jp/images/logos/gachisup_oxipng.png" alt="Gachisup" width="392px" />
+		<img src="https://revati.jp/images/logos/gachisup_oxipng.png" alt="ガチサプ" title="ガチサプ" width="392px" />
 	</a>
 	<br /><br /><br />
 	<a href="https://xenova.shop">
-		<img src="https://revati.jp/images/logos/xenova_oxipng.png" alt="Gachisup" width="392px" />
+		<img src="https://revati.jp/images/logos/xenova_oxipng.png" alt="Xenova" title="Xenova" width="392px" />
 	</a>
 </div>
