@@ -30,4 +30,8 @@
 	<a href="https://xenova.shop">
 		<img src="https://revati.jp/images/logos/xenova.webp" alt="Xenova" title="Xenova" width="392px" />
 	</a>
+	<br /><br /><br />
+	<a href="https://undercade.official.ec">
+		<img src="https://revati.jp/images/logos/undercade_white-bg.webp" alt="Undercade" title="Undercade" width="392px" />
+	</a>
 </div>
