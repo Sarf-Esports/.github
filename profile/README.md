@@ -11,7 +11,7 @@
 
 <br />
 
-<h3 align="center">Follow us!</h3>
+<h2 align="center">Follow us!</h2>
 
 <p align="center">
 <a href="https://twitter.com/revati_jp"><img src="https://img.shields.io/twitter/follow/revati_jp?label=%20%40revati_jp&style=social" alt="Twitter @revati_jp" /></a>
@@ -19,7 +19,7 @@
 
 <br />
 
-<h2 align="center">SPONSORS</h3>
+<h2 align="center">SPONSORS</h2>
 
 <div align="center">
 	<br />
