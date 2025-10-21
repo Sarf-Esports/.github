@@ -1,6 +1,6 @@
 <h1 align="center">REVATI Official</h1>
 
-<img src="https://pbs.twimg.com/profile_banners/1483923792309075972/1746632052" alt="" align="center" />
+<img src="https://pbs.twimg.com/profile_banners/1483923792309075972/1759300133" alt="" align="center" />
 
 <p align="center">Website: <a href="https://revati.jp" align="center">revati.jp</a></p>
 
